@@ -4,4 +4,4 @@
 
 # Tech Stack: HTML, CSS, reponsive design
 
-# Deployment:
+# Deployment:https://github.com/carmen10105/se_project_spots.git
